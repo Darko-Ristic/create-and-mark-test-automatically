@@ -1,4 +1,4 @@
-# Automated Quiz Creation & Scoring Pipeline
+# Automated Quiz Creation & Scoring Program
 
 This project lets you automatically create and score test created using question from text file. It's made to help with grading multiple tests quickly and easily.
 
