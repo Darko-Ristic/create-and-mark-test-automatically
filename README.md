@@ -12,7 +12,7 @@ Download the latest zip file. Unzip all files into a folder on your computer. Ru
 
 ---
 
-## Individual Bat Files
+## Individual Batch Files
 
 - `napravi bc_jpg test od pitanja_txt.bat`
   → creates a test image `bc.jpg` from a list of questions.
