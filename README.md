@@ -8,7 +8,7 @@ This project lets you automatically create and score test created using question
 
 Go to  
 [https://github.com/Darko-Ristic/create-and-mark-test-automatically/releases](https://github.com/Darko-Ristic/create-and-mark-test-automatically/releases)  
-Download the latest zip file. Unzip all files into a folder on your computer. Run `main.exe` or one of `.bat` files.
+Download the latest zip file. Unzip all files into a folder on your computer. Run `main.exe` or one of the `.bat` files.
 
 ---
 
