@@ -12,15 +12,6 @@ Download the latest zip file. Unzip all files into a folder on your computer. Ru
 
 ---
 
-## How To Batch Mark Tests
-
-- Place all your `.jpg` test with different names into the `testovi` folder.
-- Run `oceni_sve.bat` to scan, score, and save results.
-- Results for each test will appear as `.txt` files in the `out` folder.
-- At the end, the script will show you the score of each each test.
-
----
-
 ## Individual Bat Files
 
 - `napravi bc_jpg test od pitanja_txt.bat`
@@ -33,6 +24,15 @@ Download the latest zip file. Unzip all files into a folder on your computer. Ru
   → scans and scores all test images in the `testovi` folder automatically.
 
 - All `.bat` scripts use `main.exe` behind the scenes — so you don't need to run this file yourself.
+
+---
+
+## How To Mark Multiple Tests At Once
+
+- Place all your `.jpg` test with different names into the `testovi` folder.
+- Run `oceni_sve.bat` to scan, score, and save results.
+- Results for each test will appear as `.txt` files in the `out` folder.
+- At the end, the script will show you the score of each each test.
 
 ---
 
@@ -58,7 +58,7 @@ If you have an NVIDIA GPU and see errors about missing CUDA libraries, you may n
 
 ---
 
-## Visual C++ Redistributable
+## Visual C++ Redistributable Problems
 
 If you are missing DLL files, install the [latest Visual C++ Redistributable for Windows (x64)](https://aka.ms/vs/17/release/vc_redist.x64.exe).
 
