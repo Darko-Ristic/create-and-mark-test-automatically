@@ -1,0 +1,23 @@
+Q Kolika je vrednost izraza 2 + 3 · 4?:
+>14
+16
+>14
+24
+Q Koji je rezultat u Pythonu: print(2**3)?:
+6
+>8
+Q Koja funkcija u Pythonu služi za ispis na ekran?:
+input()
+>print()
+len()
+int()
+Q Koliko je 5²?:
+10
+>25
+20
+15
+Q Koji tip podatka je "hello" u Pythonu?:
+int
+float
+>str
+bool
