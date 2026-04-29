@@ -32,7 +32,7 @@ Download the latest zip file. Unzip all files into a folder on your computer. Ru
 - `oceni_sve.bat`
   → scans and scores all test images in the `testovi` folder automatically.
 
-- All scripts use `main.exe` behind the scenes—you don't need to run this file yourself.
+- All `.bat` scripts use `main.exe` behind the scenes — so you don't need to run this file yourself.
 
 ---
 
